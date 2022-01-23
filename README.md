@@ -11,7 +11,7 @@ Un nuker de serveur surpuissant !
 
 ## Utilisation
 Commandes :
-> `+help` Le menu d'aide
+> `+help` Le menu d'aide \n
 > `+delall` Supprimes tout les salons.
 > `+nuke` Détruis le serveur discord.
 > `+spam <message>` Spam des messages dans tout les salon.
