@@ -11,10 +11,10 @@ Un nuker de serveur surpuissant !
 
 ## Utilisation
 Commandes :
-> `+help` Le menu d'aide \n
-> `+delall` Supprimes tout les salons.
-> `+nuke` Détruis le serveur discord.
-> `+spam <message>` Spam des messages dans tout les salon.
-> `+fuck` Détruis le serveur actuel.
-> `+fuck-all` Détruis tout les serveurs du bot.
+> `+help` Le menu d'aide </br>
+> `+delall` Supprimes tout les salons. </br>
+> `+nuke` Détruis le serveur discord. </br>
+> `+spam <message>` Spam des messages dans tout les salon. </br>
+> `+fuck` Détruis le serveur actuel. </br>
+> `+fuck-all` Détruis tout les serveurs du bot. </br>
 > `+stop` Arretes toutes les actions en cours. (redémares le bot)
