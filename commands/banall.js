@@ -5,9 +5,7 @@ module.exports = [{
 
   $title[Ban de tous les membres du serveur...]
   $description[Veuillez patienter...]
-  $addTimestamp
-  
-  $onnlyIf[$message!=;:x: Indique un nom pour les salons.]`
+  $addTimestamp`
 }, {
   type: 'awaitedCommand',
   name: "ballTrigger",
