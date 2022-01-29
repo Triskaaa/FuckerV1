@@ -12,6 +12,6 @@ module.exports = [{
 }, {
   type: 'awaitedCommand',
   name: "rbombTrigger",
-  code: `$createRole[$getServerVar[rbomb]random]
+  code: `$createRole[$getServerVar[rbomb];$randomText[#ff0000;#ff4d00;#f6ff00;#09ff00;#00ffce;#0097ff;#0900ff;#7f00ff;#e100ff;#ff00ae;#ff004c]]
   $suppressErrors`
 }]
