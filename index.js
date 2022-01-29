@@ -28,6 +28,11 @@ bot.variables({
   msg: ""
 })
 
+bot.variables({
+  chbomb: "",
+  rbomb: ""
+})
+
  bot.loadCommands(`./commands/`)
 
 const keepAlive = require("./server");
