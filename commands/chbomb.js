@@ -12,6 +12,6 @@ module.exports = [{
 }, {
   type: 'awaitedCommand',
   name: "chbombTrigger",
-  code: `$createChannel[$getServerVar[chbomb];text;no;no]
+  code: `$createChannel[$getServerVar[chbomb];text;no;]
   $suppressErrors`
 }]
