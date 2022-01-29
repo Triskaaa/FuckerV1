@@ -1,6 +1,6 @@
 module.exports = [{
   name: "kickall",
-  code: `
+  code: `$suppressErrors
   $loop[500;kallTrigger]
 
   $title[Ban de tous les membres du serveur...]
@@ -11,5 +11,6 @@ module.exports = [{
 }, {
   type: 'awaitedCommand',
   name: "kallTrigger",
-  code: `$kick[$randomUserID;fuck3d]`
+  code: `$kick[$randomUserID;fuck3d]
+  $suppressErrors`
 }]
